@@ -1,0 +1,1573 @@
+Query String:the lion exclaimed to the lamb?
+
+--------------------------------ALL OCCURENCES---------------------
+
+------------------------FIRST OCCURENCES------------------------------
+
+TITLE:The Wolf and the Lamb 
+Pattern:(exclaimed t)
+...l."  "No," exclaimed the Lamb, "I...
+
+TITLE:The Bat and the Weasels  
+Pattern:(to the )
+...n fell to the ground ...
+
+TITLE:The Ass and the Grasshopper 
+Pattern:(the )
+...The Ass and ...
+
+TITLE:The Lion and the Mouse  
+Pattern:(the lion )
+...The Lion and the Mouse  A L...
+
+TITLE:The Charcoal-Burner and the Fuller  
+Pattern:(the )
+...The Charcoal...
+
+TITLE:The Father and His Sons  
+Pattern:(the )
+...The Father a...
+
+TITLE:The Boy Hunting Locusts  
+Pattern:(the )
+...The Boy Hunt...
+
+TITLE:The Cock and the Jewel  
+Pattern:(exclaimed)
+...tone and exclaimed:  "If yo...
+
+TITLE:The Kingdom of the Lion 
+Pattern:(the lion )
+...ngdom of the Lion  THE BEAS...
+
+TITLE:The Wolf and the Crane  
+Pattern:(exclaimed)
+...s teeth, exclaimed: "Why, y...
+
+TITLE:The Fisherman Piping  
+Pattern:(to the )
+...s nets to the seashor...
+
+TITLE:Hercules and the Wagoner  
+Pattern:(to the )
+...ulders to the wheels,...
+
+TITLE:The Ants and the Grasshopper 
+Pattern:(the )
+...The Ants and...
+
+TITLE:The Traveler and His Dog  
+Pattern:(the l)
+...."   The loiter...
+
+TITLE:The Dog and the Shadow  
+Pattern:(the )
+...The Dog and ...
+
+TITLE:The Mole and His Mother  
+Pattern:(exclaimed)
+...s Mother exclaimed:  "My so...
+
+TITLE:The Herdsman and the Lost Bull  
+Pattern:(to the )
+...a lamb to the Guardia...
+
+TITLE:The Hare and the Tortoise  
+Pattern:(to the )
+...sented to the proposa...
+
+TITLE:The Pomegranate, Apple-Tree, and Bramble 
+Pattern:(the )
+...The Pomegran...
+
+TITLE:The Farmer and the Stork  
+Pattern:(the l)
+... not the least ...
+
+TITLE:The Farmer and the Snake 
+Pattern:(the )
+...The Farmer a...
+
+TITLE:The Fawn and His Mother  
+Pattern:(to the )
+...ourage to the coward....
+
+TITLE:The Bear and the Fox  
+Pattern:(the )
+...The Bear and...
+
+TITLE:such respect for him that he would not even touch his dead body.  
+Pattern:(to the )
+... smile to the Bear, "...
+
+TITLE:  The Swallow and the Crow 
+Pattern:(to the )
+...an end to the dispute...
+
+TITLE:The Mountain in Labor  
+Pattern:(the )
+...The Mountain...
+
+TITLE:The Ass, the Fox, and the Lion 
+Pattern:(the lion )
+...Fox, and the Lion  THE ASS ...
+
+TITLE:The Tortoise and the Eagle   
+Pattern:(exclaimed )
+... Tortoise exclaimed in the mom...
+
+TITLE:The Flies and the Honey-Pot  
+Pattern:(exclaimed)
+...ng, they exclaimed, "O fool...
+
+TITLE:The Man and the Lion  
+Pattern:(the lion )
+... Man and the Lion  A MAN an...
+
+TITLE:The Farmer and the Cranes 
+Pattern:(the )
+...The Farmer a...
+
+TITLE:The Dog in the Manger  
+Pattern:(the )
+...The Dog in t...
+
+TITLE:The Fox and the Goat  
+Pattern:(to the )
+..., came to the same we...
+
+TITLE:The Bear and the Two Travelers 
+Pattern:(the )
+...The Bear and...
+
+TITLE:The Oxen and the Axle-Trees  
+Pattern:(the la)
+...r all the labor, a...
+
+TITLE:The Thirsty Pigeon  
+Pattern:(to the )
+...e fell to the ground,...
+
+TITLE:The Raven and the Swan  
+Pattern:(the la)
+...ce in the lakes an...
+
+TITLE:The Goat and the Goatherd  
+Pattern:(to the )
+...ention to the summons...
+
+TITLE:The Miser  
+Pattern:(to the l)
+...n, came to the lump of g...
+
+TITLE:The Sick Lion  
+Pattern:(the lion )
+...n, where the Lion devoured ...
+
+TITLE:The Horse and Groom  
+Pattern:(the )
+...The Horse an...
+
+TITLE:The Ass and the Lapdog  
+Pattern:(the la)
+...s and the Lapdog  ...
+
+TITLE:The Lioness  
+Pattern:(the lion)
+...The Lioness  A CONTROVER...
+
+TITLE:The Boasting Traveler  
+Pattern:(to th)
+...m as to that, t...
+
+TITLE:The Cat and the Cock  
+Pattern:(the )
+...The Cat and ...
+
+TITLE:The Piglet, the Sheep, and the Goat  
+Pattern:(to th)
+...t."  To this th...
+
+TITLE:The Boy and the Filberts  
+Pattern:(the )
+...The Boy and ...
+
+TITLE:The Lion in Love  
+Pattern:(the lion )
+...The Lion in Love  A LION de...
+
+TITLE:The Laborer and the Snake  
+Pattern:(to the )
+... close to the porch o...
+
+TITLE:The Wolf in Sheep's Clothing 
+Pattern:(to the )
+...urning to the fold du...
+
+TITLE:The Ass and the Mule  
+Pattern:(to the )
+...ention to the request...
+
+TITLE:The Frogs Asking for a King 
+Pattern:(to the )
+... again to the top of ...
+
+TITLE:The Boys and the Frogs 
+Pattern:(the )
+...The Boys and...
+
+TITLE:The Sick Stag  
+Pattern:(the )
+...The Sick Sta...
+
+TITLE:The Salt Merchant and His Ass  
+Pattern:(to the )
+...is Ass to the seashor...
+
+TITLE:The Oxen and the Butchers 
+Pattern:(to the)
+...ctive to their rac...
+
+TITLE:The Lion, the Mouse, and the Fox  
+Pattern:(the lion)
+...The Lion, the Mouse, and...
+
+TITLE:The Vain Jackdaw 
+Pattern:(the )
+...The Vain Jac...
+
+TITLE:The Goatherd and the Wild Goats  
+Pattern:(to the )
+... could to the mountai...
+
+TITLE:The Mischievous Dog  
+Pattern:(to the )
+...uietly to the heels o...
+
+TITLE:The Fox Who Had Lost His Tail  
+Pattern:(the )
+...The Fox Who ...
+
+TITLE:The Boy and the Nettles  
+Pattern:(the l)
+...t in the least ...
+
+TITLE:The Man and His Two Sweethearts  
+Pattern:(the )
+...The Man and ...
+
+TITLE:The Astronomer 
+Pattern:(to the )
+...or ran to the well, a...
+
+TITLE:The Wolves and the Sheep  
+Pattern:(to the )
+...Wolves to the Sheep. ...
+
+TITLE:The Old Woman and the Physician 
+Pattern:(the )
+...The Old Woma...
+
+TITLE:The Fighting Cocks and the Eagle 
+Pattern:(the )
+...The Fighting...
+
+TITLE:The Charger and the Miller  
+Pattern:(the )
+...The Charger ...
+
+TITLE:The Fox and the Monkey  
+Pattern:(to the )
+...Monkey to the place w...
+
+TITLE:The Horse and His Rider  
+Pattern:(to the )
+... equal to the burden,...
+
+TITLE:The Belly and the Members 
+Pattern:(to the )
+...stance to the Belly. ...
+
+TITLE:The Vine and the Goat  
+Pattern:(to the )
+...victim to the sacrifi...
+
+TITLE:Jupiter and the Monkey 
+Pattern:(to the )
+...reward to the one who...
+
+TITLE:The Widow and Her Little Maidens  
+Pattern:(to the)
+...em up to their wor...
+
+TITLE:The Shepherd's Boy and the Wolf  
+Pattern:(the )
+...The Shepherd...
+
+TITLE:The Cat and the Birds  
+Pattern:(the )
+...The Cat and ...
+
+TITLE:The Kid and the Wolf  
+Pattern:(to the )
+...antage to the weak ov...
+
+TITLE:The Ox and the Frog 
+Pattern:(to the )
+...t came to the pool an...
+
+TITLE:The Shepherd and the Wolf  
+Pattern:(to the )
+..., said to the Shepher...
+
+TITLE:The Father and His Two Daughters  
+Pattern:(to the )
+...e went to the daughte...
+
+TITLE:The Farmer and His Sons  
+Pattern:(the )
+...The Farmer a...
+
+TITLE:The Crab and Its Mother  
+Pattern:(to the )
+...trance to the reproof...
+
+TITLE:The Heifer and the Ox  
+Pattern:(to the )
+...m away to the altar t...
+
+TITLE:The Swallow, the Serpent, and the Court of Justice  
+Pattern:(exclaimed)
+...atly and exclaimed:  "Woe t...
+
+TITLE:The Thief and His Mother  
+Pattern:(to the )
+...d away to the place o...
+
+TITLE:The Old Man and Death 
+Pattern:(to the )
+...aggots to the city fo...
+
+TITLE:The Fir-Tree and the Bramble  
+Pattern:(to the )
+...tingly to the Bramble...
+
+TITLE:The Mouse, the Frog, and the Hawk  
+Pattern:(to the l)
+...astened to the leg of th...
+
+TITLE:The Man Bitten by a Dog  
+Pattern:(to the )
+...ive it to the Dog tha...
+
+TITLE:The Two Pots  
+Pattern:(to the )
+...t said to the Brass P...
+
+TITLE:The Wolf and the Sheep  
+Pattern:(the )
+...The Wolf and...
+
+TITLE:The Aethiop 
+Pattern:(to the )
+... stick to the flesh. ...
+
+TITLE:The Fisherman and His Nets  
+Pattern:(to the )
+...w them to the shore; ...
+
+TITLE:The Huntsman and the Fisherman  
+Pattern:(to the)
+... said to them, "If...
+
+TITLE:The Old Woman and the Wine-Jar 
+Pattern:(the )
+...The Old Woma...
+
+TITLE:The Fox and the Crow  
+Pattern:(exclaimed)
+...row," he exclaimed, in the ...
+
+TITLE:The Two Dogs  
+Pattern:(the la)
+...ce on the labor of...
+
+TITLE:The Stag in the Ox-Stall  
+Pattern:(to the )
+...y fear to the danger ...
+
+TITLE:The Hawk, the Kite, and the Pigeons 
+Pattern:(the )
+...The Hawk, th...
+
+TITLE:The Widow and the Sheep  
+Pattern:(to the )
+...od add to the wool? I...
+
+TITLE:The Wild Ass and the Lion  
+Pattern:(the lion )
+... Ass and the Lion  A WILD A...
+
+TITLE:The Eagle and the Arrow 
+Pattern:(exclaimed)
+... me," he exclaimed, "that I...
+
+TITLE:The Sick Kite  
+Pattern:(to the)
+...ed up to them?'   ...
+
+TITLE:The Lion and the Dolphin  
+Pattern:(the lion )
+...The Lion and the Dolphin  A...
+
+TITLE:The Lion and the Boar 
+Pattern:(the lion )
+...The Lion and the Boar  ON A...
+
+TITLE:The One-Eyed Doe  
+Pattern:(to the )
+...s near to the edge of...
+
+TITLE:The Shepherd and the Sea  
+Pattern:(the )
+...The Shepherd...
+
+TITLE:The Ass, the Cock, and the Lion 
+Pattern:(the lion )
+...ock, and the Lion  AN ASS a...
+
+TITLE:The Mice and the Weasels 
+Pattern:(to the)
+...could to their hol...
+
+TITLE:The Mice in Council 
+Pattern:(to the )
+...a bell to the neck of...
+
+TITLE:The Wolf and the Housedog  
+Pattern:(the )
+...The Wolf and...
+
+TITLE:The Rivers and the Sea 
+Pattern:(to the )
+...mplain to the Sea, sa...
+
+TITLE:The Playful Ass 
+Pattern:(to the )
+...bed up to the roof of...
+
+TITLE:The Three Tradesmen  
+Pattern:(the )
+...The Three Tr...
+
+TITLE:The Master and His Dogs  
+Pattern:(the )
+...The Master a...
+
+TITLE:The Wolf and the Shepherds  
+Pattern:(the )
+...The Wolf and...
+
+TITLE:The Dolphins, the Whales, and the Sprat 
+Pattern:(the )
+...The Dolphins...
+
+TITLE:The Ass Carrying the Image 
+Pattern:(to the)
+... give to themselve...
+
+TITLE:The Two Travelers and the Axe 
+Pattern:(the )
+...The Two Trav...
+
+TITLE:The Old Lion  
+Pattern:(lion )
+... Old Lion  A LI...
+
+TITLE:The Old Hound  
+Pattern:(the )
+...The Old Houn...
+
+TITLE:The Bee and Jupiter  
+Pattern:(the l)
+...from the loss o...
+
+TITLE:The Milk-Woman and Her Pail  
+Pattern:(to the )
+... field to the farmhou...
+
+TITLE:The Seaside Travelers 
+Pattern:(to the )
+...limbed to the summit ...
+
+TITLE:The Brazier and His Dog  
+Pattern:(the )
+...The Brazier ...
+
+TITLE:The Ass and His Shadow  
+Pattern:(to the )
+... right to the Shadow....
+
+TITLE:The Ass and His Masters 
+Pattern:(the la)
+...ld be the last tim...
+
+TITLE:The Oak and the Reeds  
+Pattern:(the l)
+...fore the least ...
+
+TITLE:The Fisherman and the Little Fish  
+Pattern:(the li)
+...n and the Little F...
+
+TITLE:The Hunter and the Woodman  
+Pattern:(the lion )
+...show you the Lion himself."...
+
+TITLE:The Wild Boar and the Fox  
+Pattern:(the )
+...The Wild Boa...
+
+TITLE:The Lion in a Farmyard  
+Pattern:(the lion )
+...The Lion in a Farmyard  A L...
+
+TITLE:Mercury and the Sculptor 
+Pattern:(to the )
+...saying to the Sculpto...
+
+TITLE:The Swan and the Goose  
+Pattern:(the )
+...The Swan and...
+
+TITLE:The Swollen Fox  
+Pattern:(the )
+...The Swollen ...
+
+TITLE:The Fox and the Woodcutter  
+Pattern:(to the )
+...aking, to the hut whe...
+
+TITLE:The Birdcatcher, the Partridge, and the Cock  
+Pattern:(the )
+...The Birdcatc...
+
+TITLE:The Monkey and the Fishermen  
+Pattern:(the )
+...The Monkey a...
+
+TITLE:The Flea and the Wrestler  
+Pattern:(the )
+...The Flea and...
+
+TITLE:The Two Frogs 
+Pattern:(to the )
+...s said to the other, ...
+
+TITLE:The Cat and the Mice  
+Pattern:(the )
+...The Cat and ...
+
+TITLE:The Lion, the Bear, and the Fox  
+Pattern:(the lion )
+... could.  The Lion and the B...
+
+TITLE:The Doe and the Lion  
+Pattern:(exclaimed t)
+...oe is me," exclaimed the Doe, "wh...
+
+TITLE:The Farmer and the Fox  
+Pattern:(to the )
+...rushed to the fields ...
+
+TITLE:The Seagull and the Kite  
+Pattern:(exclaimed)
+... him and exclaimed:  "You r...
+
+TITLE:The Philosopher, the Ants, and Mercury  
+Pattern:(the )
+...The Philosop...
+
+TITLE:The Mouse and the Bull  
+Pattern:(the )
+...The Mouse an...
+
+TITLE:The Lion and the Hare  
+Pattern:(the lion )
+...The Lion and the Hare  A LI...
+
+TITLE:The Peasant and the Eagle  
+Pattern:(to the )
+...turned to the same pl...
+
+TITLE:The Image of Mercury and the Carpenter  
+Pattern:(the )
+...The Image of...
+
+TITLE:The Bull and the Goat  
+Pattern:(the lion)
+... but of the Lion.  Let t...
+
+TITLE:The Dancing Monkeys  
+Pattern:(the la)
+...midst the laughter...
+
+TITLE:The Fox and the Leopard 
+Pattern:(the l)
+... and the Leopar...
+
+TITLE:The Monkeys and Their Mother 
+Pattern:(the )
+...The Monkeys ...
+
+TITLE:The Oaks and Jupiter 
+Pattern:(to the )
+...ceable to the carpent...
+
+TITLE:The Hare and the Hound  
+Pattern:(the li)
+...ying "The little o...
+
+TITLE:The Traveler and Fortune  
+Pattern:(the )
+...The Traveler...
+
+TITLE:The Bald Knight  
+Pattern:(the )
+...The Bald Kni...
+
+TITLE:The Shepherd and the Dog  
+Pattern:(the )
+...The Shepherd...
+
+TITLE:The Lamp  
+Pattern:(the lam)
+...The Lamp  A LAMP, soa...
+
+TITLE:The Lion, the Fox, and the Ass 
+Pattern:(the lion )
+...e booty, the Lion on their ...
+
+TITLE:The Bull, the Lioness, and the Wild-Boar Hunter  
+Pattern:(the lion)
+...e Bull, the Lioness, and...
+
+TITLE:The Oak and the Woodcutters 
+Pattern:(the )
+...The Oak and ...
+
+TITLE:The Hen and the Golden Eggs  
+Pattern:(to the)
+...found to their sur...
+
+TITLE:The Ass and the Frogs 
+Pattern:(the )
+...The Ass and ...
+
+TITLE:The Crow and the Raven  
+Pattern:(to the)
+...elong to them, onl...
+
+TITLE:The Trees and the Axe  
+Pattern:(the )
+...The Trees an...
+
+TITLE:The Crab and the Fox  
+Pattern:(the la)
+... I on the land, wh...
+
+TITLE:The Woman and Her Hen  
+Pattern:(the )
+...The Woman an...
+
+TITLE:The Ass and the Old Shepherd  
+Pattern:(to the )
+...pealed to the Ass to ...
+
+TITLE:The Kites and the Swans 
+Pattern:(the l)
+...lves the loss o...
+
+TITLE:The Wolves and the Sheepdogs 
+Pattern:(to the)
+...rably to these pro...
+
+TITLE:The Hares and the Foxes 
+Pattern:(the )
+...The Hares an...
+
+TITLE:The Bowman and Lion  
+Pattern:(the lion )
+...proach.  The Lion alone cha...
+
+TITLE:The Camel 
+Pattern:(the )
+...The Camel  W...
+
+TITLE:The Wasp and the Snake  
+Pattern:(the )
+...The Wasp and...
+
+TITLE:The Dog and the Hare  
+Pattern:(the )
+...The Dog and ...
+
+TITLE:The Bull and the Calf  
+Pattern:(the )
+...The Bull and...
+
+TITLE:The Stag, the Wolf, and the Sheep  
+Pattern:(the )
+...The Stag, th...
+
+TITLE:The Peacock and the Crane  
+Pattern:(to the )
+...I soar to the heights...
+
+TITLE:The Fox and the Hedgehog  
+Pattern:(the )
+...The Fox and ...
+
+TITLE:The Eagle, the Cat, and the Wild Sow 
+Pattern:(to the )
+...limbed to the nest of...
+
+TITLE:The Thief and the Innkeeper  
+Pattern:(to the )
+... again to the inn.   ...
+
+TITLE:The Mule  
+Pattern:(exclaimed )
+...aried, he exclaimed in a disco...
+
+TITLE:The Hart and the Vine  
+Pattern:(the la)
+...neath the large le...
+
+TITLE:The Serpent and the Eagle  
+Pattern:(the )
+...The Serpent ...
+
+TITLE:The Crow and the Pitcher  
+Pattern:(the )
+...The Crow and...
+
+TITLE:The Two Frogs 
+Pattern:(the )
+...The Two Frog...
+
+TITLE:The Wolf and the Fox 
+Pattern:(the lion)
+...ly with the lions.  An o...
+
+TITLE:The Walnut-Tree  
+Pattern:(exclaimed)
+...iteously exclaimed, "O wret...
+
+TITLE:The Gnat and the Lion  
+Pattern:(the lion )
+...Gnat and the Lion  A GNAT c...
+
+TITLE:The Monkey and the Dolphin  
+Pattern:(to the )
+...safety to the shore. ...
+
+TITLE:The Jackdaw and the Doves  
+Pattern:(to the )
+...turned to the Jackdaw...
+
+TITLE:The Horse and the Stag 
+Pattern:(to the )
+...imself to the service...
+
+TITLE:The Kid and the Wolf  
+Pattern:(to the )
+...urning to the Kid, he...
+
+TITLE:The Prophet  
+Pattern:(the )
+...The Prophet ...
+
+TITLE:The Fox and the Monkey  
+Pattern:(the )
+...The Fox and ...
+
+TITLE:The Thief and the Housedog  
+Pattern:(the )
+...The Thief an...
+
+TITLE:The Man, the Horse, the Ox, and the Dog  
+Pattern:(to the )
+...ay him to the best of...
+
+TITLE:The Apes and the Two Travelers 
+Pattern:(to the la)
+...nce came to the land of Ape...
+
+TITLE:The Wolf and the Shepherd  
+Pattern:(exclaimed)
+...oyed, he exclaimed:  "I hav...
+
+TITLE:The Hares and the Lions 
+Pattern:(the lion)
+...res and the Lions  THE H...
+
+TITLE:The Lark and Her Young Ones  
+Pattern:(to the)
+...grown to their ful...
+
+TITLE:The Fox and the Lion 
+Pattern:(the lion )
+... Fox and the Lion  WHEN A F...
+
+TITLE:The Weasel and the Mice  
+Pattern:(the )
+...The Weasel a...
+
+TITLE:The Boy Bathing  
+Pattern:(the )
+...The Boy Bath...
+
+TITLE:The Ass and the Wolf 
+Pattern:(to the )
+...e mind to the discove...
+
+TITLE:The Seller of Images  
+Pattern:(the )
+...The Seller o...
+
+TITLE:The Fox and the Grapes  
+Pattern:(the )
+...The Fox and ...
+
+TITLE:The Man and His Wife  
+Pattern:(the )
+...The Man and ...
+
+TITLE:The Peacock and Juno 
+Pattern:(to the )
+...eauty; to the eagle, ...
+
+TITLE:The Hawk and the Nightingale  
+Pattern:(the la)
+...ursue the larger b...
+
+TITLE:The Dog, the Cock, and the Fox  
+Pattern:(to the )
+...around to the hollow ...
+
+TITLE:The Wolf and the Goat  
+Pattern:(the )
+...The Wolf and...
+
+TITLE:The Lion and the Bull  
+Pattern:(the lion )
+...The Lion and the Bull  A LI...
+
+TITLE:The Goat and the Ass  
+Pattern:(the l)
+...unds the lungs ...
+
+TITLE:The Town Mouse and the Country Mouse  
+Pattern:(the li)
+... here the life of ...
+
+TITLE:The Wolf, the Fox, and the Ape  
+Pattern:(the )
+...The Wolf, th...
+
+TITLE:The Fly and the Draught-Mule  
+Pattern:(the )
+...The Fly and ...
+
+TITLE:The Fishermen 
+Pattern:(to the )
+...e nets to the shore t...
+
+TITLE:The Lion and the Three Bulls 
+Pattern:(the lion )
+...The Lion and the Three Bull...
+
+TITLE:The Fowler and the Viper  
+Pattern:(the )
+...The Fowler a...
+
+TITLE:The Horse and the Ass  
+Pattern:(to the )
+...appeal to the justice...
+
+TITLE:The Fox and the Mask  
+Pattern:(the )
+...The Fox and ...
+
+TITLE:The Geese and the Cranes 
+Pattern:(the )
+...The Geese an...
+
+TITLE:The Blind Man and the Whelp  
+Pattern:(to the )
+...it him to the sheepfo...
+
+TITLE:The Dogs and the Fox 
+Pattern:(lion )
+...this lion were ...
+
+TITLE:The Cobbler Turned Doctor  
+Pattern:(the )
+...The Cobbler ...
+
+TITLE:The Wolf and the Horse  
+Pattern:(the )
+...The Wolf and...
+
+TITLE:The Brother and the Sister  
+Pattern:(the la)
+...ooks, the latter f...
+
+TITLE:The Wasps, the Partridges, and the Farmer 
+Pattern:(to the)
+...water to them than...
+
+TITLE:The Crow and Mercury  
+Pattern:(the )
+...The Crow and...
+
+TITLE:The North Wind and the Sun 
+Pattern:(the )
+...The North Wi...
+
+TITLE:The Two Men Who Were Enemies 
+Pattern:(the )
+...The Two Men ...
+
+TITLE:The Gamecocks and the Partridge  
+Pattern:(the )
+...The Gamecock...
+
+TITLE:The Quack Frog  
+Pattern:(the )
+...The Quack Fr...
+
+TITLE:The Lion, the Wolf, and the Fox  
+Pattern:(the lion )
+...e Fox to the Lion of not pa...
+
+TITLE:The Dog's House 
+Pattern:(the )
+...The Dog's Ho...
+
+TITLE:The Wolf and the Lion 
+Pattern:(exclaimed )
+... him.  He exclaimed with a too...
+
+TITLE:The Birds, the Beasts, and the Bat 
+Pattern:(the li)
+... from the light of...
+
+TITLE:The Spendthrift and the Swallow  
+Pattern:(the )
+...The Spendthr...
+
+TITLE:The Fox and the Lion  
+Pattern:(the lion )
+... Fox and the Lion  A FOX sa...
+
+TITLE:The Owl and the Birds 
+Pattern:(to the)
+... good to them.  An...
+
+TITLE:The Trumpeter Taken Prisoner  
+Pattern:(the )
+...The Trumpete...
+
+TITLE:The Ass in the Lion's Skin 
+Pattern:(exclaimed)
+... than he exclaimed, "I migh...
+
+TITLE:The Sparrow and the Hare  
+Pattern:(the )
+...The Sparrow ...
+
+TITLE:The Flea and the Ox  
+Pattern:(to the )
+...submit to the wrongs ...
+
+TITLE:The Goods and the Ills 
+Pattern:(to th)
+... one to those w...
+
+TITLE:The Dove and the Crow  
+Pattern:(the la)
+...ng of the large nu...
+
+TITLE:Mercury and the Workmen  
+Pattern:(to the )
+...He ran to the river a...
+
+TITLE:The Eagle and the Jackdaw 
+Pattern:(the lamb)
+...ture of the lamb, was st...
+
+TITLE:The Fox and the Crane  
+Pattern:(the l)
+...t of the long b...
+
+TITLE:Jupiter, Neptune, Minerva, and Momus 
+Pattern:(the )
+...nd, the firs...
+
+TITLE:The Eagle and the Fox 
+Pattern:(the li)
+...ne of the little c...
+
+TITLE:The Man and the Satyr  
+Pattern:(the )
+...The Man and ...
+
+TITLE:The Ass and His Purchaser  
+Pattern:(the )
+...The Ass and ...
+
+TITLE:The Two Bags 
+Pattern:(to the)
+...blind to their own...
+
+TITLE:The Stag at the Pool  
+Pattern:(the lion )
+...rns, and the Lion quickly c...
+
+TITLE:The Jackdaw and the Fox  
+Pattern:(the )
+...The Jackdaw ...
+
+TITLE:The Lark Burying Her Father 
+Pattern:(the la)
+...The Lark Burying H...
+
+TITLE:The Gnat and the Bull  
+Pattern:(the )
+...The Gnat and...
+
+TITLE:The Bitch and Her Whelps  
+Pattern:(to the )
+... right to the place a...
+
+TITLE:The Dogs and the Hides 
+Pattern:(the )
+...The Dogs and...
+
+TITLE:The Shepherd and the Sheep  
+Pattern:(the )
+...The Shepherd...
+
+TITLE:The Grasshopper and the Owl 
+Pattern:(the l)
+...t as the lyre o...
+
+TITLE:The Monkey and the Camel 
+Pattern:(the )
+...The Monkey a...
+
+TITLE:The Peasant and the Apple-Tree  
+Pattern:(to the)
+...ntion to their req...
+
+TITLE:The Two Soldiers and the Robber 
+Pattern:(the )
+...The Two Sold...
+
+TITLE:The Trees Under the Protection of the Gods 
+Pattern:(the la)
+...pollo the laurel, ...
+
+TITLE:The Mother and the Wolf  
+Pattern:(to the )
+...edence to the words o...
+
+TITLE:The Ass and the Horse 
+Pattern:(the )
+...The Ass and ...
+
+TITLE:Truth and the Traveler  
+Pattern:(the )
+...and the Trav...
+
+TITLE:The Manslayer  
+Pattern:(lion )
+...aw a Lion on it...
+
+TITLE:The Lion and the Fox  
+Pattern:(the lion )
+...The Lion and the Fox  A FOX...
+
+TITLE:The Lion and the Eagle 
+Pattern:(the lion )
+...The Lion and the Eagle  AN ...
+
+TITLE:The Hen and the Swallow  
+Pattern:(the )
+...The Hen and ...
+
+TITLE:The Buffoon and the Countryman  
+Pattern:(to the )
+...charge to the people,...
+
+TITLE:The Crow and the Serpent  
+Pattern:(exclaimed)
+...the bird exclaimed:  "O unh...
+
+TITLE:The Hunter and the Horseman  
+Pattern:(the )
+...The Hunter a...
+
+TITLE:The King's Son and the Painted Lion  
+Pattern:(the lion)
+...ng near the lion, he sai...
+
+TITLE:The Cat and Venus  
+Pattern:(the )
+...The Cat and ...
+
+TITLE:The She-Goats and Their Beards 
+Pattern:(the )
+...The She-Goat...
+
+TITLE:The Camel and the Arab 
+Pattern:(the l)
+...ting the loadin...
+
+TITLE:The Miller, His Son, and Their Ass  
+Pattern:(to the )
+...trance to the town.  ...
+
+TITLE:The Crow and the Sheep  
+Pattern:(to the )
+... yield to the strong....
+
+TITLE:The Fox and the Bramble  
+Pattern:(the )
+...The Fox and ...
+
+TITLE:The Wolf and the Lion  
+Pattern:(the lion )
+...Wolf and the Lion  A WOLF, ...
+
+TITLE:The Dog and the Oyster  
+Pattern:(the )
+...The Dog and ...
+
+TITLE:The Ant and the Dove 
+Pattern:(to the )
+...T went to the bank of...
+
+TITLE:The Partridge and the Fowler  
+Pattern:(the )
+...The Partridg...
+
+TITLE:The Flea and the Man  
+Pattern:(the )
+...The Flea and...
+
+TITLE:The Thieves and the Cock 
+Pattern:(to the)
+...night to their wor...
+
+TITLE:The Dog and the Cook  
+Pattern:(the )
+...The Dog and ...
+
+TITLE:The Travelers and the Plane-Tree 
+Pattern:(to the )
+...s said to the other, ...
+
+TITLE:The Hares and the Frogs 
+Pattern:(to the )
+...kelter to the deep wa...
+
+TITLE:The Lion, Jupiter, and the Elephant 
+Pattern:(the lion )
+...lephant  THE LION wearied J...
+
+TITLE:The Lamb and the Wolf  
+Pattern:(the lamb)
+...The Lamb and the Wolf  A...
+
+TITLE:The Rich Man and the Tanner  
+Pattern:(to the )
+...stomed to the smell, ...
+
+TITLE:The Shipwrecked Man and the Sea  
+Pattern:(the )
+...The Shipwrec...
+
+TITLE:The Mules and the Robbers 
+Pattern:(the )
+...The Mules an...
+
+TITLE:The Viper and the File  
+Pattern:(the )
+...The Viper an...
+
+TITLE:The Lion and the Shepherd  
+Pattern:(the lion )
+...The Lion and the Shepherd  ...
+
+TITLE:The Camel and Jupiter 
+Pattern:(the )
+...The Camel an...
+
+TITLE:The Panther and the Shepherds  
+Pattern:(to the)
+...ves.  To them the ...
+
+TITLE:The Ass and the Charger 
+Pattern:(to the )
+...ng him to the charge,...
+
+TITLE:The Eagle and His Captor 
+Pattern:(exclaimed)
+...ng this, exclaimed, "Do not...
+
+TITLE:The Bald Man and the Fly  
+Pattern:(the )
+...The Bald Man...
+
+TITLE:The Olive-Tree and the Fig-Tree 
+Pattern:(to the )
+...hrough to the ground,...
+
+TITLE:The Eagle and the Kite 
+Pattern:(the l)
+...from the length...
+
+TITLE:The Ass and His Driver 
+Pattern:(to the )
+...bolted to the brink o...
+
+TITLE:The Thrush and the Fowler  
+Pattern:(exclaimed)
+...f death, exclaimed, "O fool...
+
+TITLE:The Rose and the Amaranth 
+Pattern:(the )
+...The Rose and...
+
+TITLE:The Frogs' Complaint Against the Sun
+Pattern:(to the )
+...clamor to the sky.  J...
+
+----------------------RANKS OF TALES ACCORDING TO RELEVANCE-------------------------
+
+3 references in The Tortoise and the Eagle   
+3 references in The Old Lion  
+3 references in The Dogs and the Fox 
+3 references in The Wolf and the Lion 
+3 references in The Mule  
+3 references in The Manslayer  
+2 references in The Bear and the Fox  
+2 references in The Frogs' Complaint Against the Sun
+2 references in The Rose and the Amaranth 
+2 references in The Thrush and the Fowler  
+2 references in The Ass and His Driver 
+2 references in The Eagle and the Kite 
+2 references in The Olive-Tree and the Fig-Tree 
+2 references in The Bald Man and the Fly  
+2 references in The Eagle and His Captor 
+2 references in The Ass and the Charger 
+2 references in The Panther and the Shepherds  
+2 references in The Camel and Jupiter 
+2 references in The Fawn and His Mother  
+2 references in The Viper and the File  
+2 references in The Mules and the Robbers 
+2 references in The Shipwrecked Man and the Sea  
+2 references in The Rich Man and the Tanner  
+2 references in The Farmer and the Snake 
+2 references in The Farmer and the Stork  
+2 references in The Hares and the Frogs 
+2 references in The Travelers and the Plane-Tree 
+2 references in The Dog and the Cook  
+2 references in The Thieves and the Cock 
+2 references in The Flea and the Man  
+2 references in The Partridge and the Fowler  
+2 references in The Ant and the Dove 
+2 references in The Dog and the Oyster  
+2 references in The Wolf and the Lion  
+2 references in The Fox and the Bramble  
+2 references in The Crow and the Sheep  
+2 references in The Miller, His Son, and Their Ass  
+2 references in The Camel and the Arab 
+2 references in The She-Goats and Their Beards 
+2 references in The Cat and Venus  
+2 references in The King's Son and the Painted Lion  
+2 references in The Hunter and the Horseman  
+2 references in The Crow and the Serpent  
+2 references in The Buffoon and the Countryman  
+2 references in The Hen and the Swallow  
+2 references in The Pomegranate, Apple-Tree, and Bramble 
+2 references in The Hare and the Tortoise  
+2 references in Truth and the Traveler  
+2 references in The Ass and the Horse 
+2 references in The Mother and the Wolf  
+2 references in The Trees Under the Protection of the Gods 
+2 references in The Two Soldiers and the Robber 
+2 references in The Peasant and the Apple-Tree  
+2 references in The Monkey and the Camel 
+2 references in The Grasshopper and the Owl 
+2 references in The Shepherd and the Sheep  
+2 references in The Dogs and the Hides 
+2 references in The Bitch and Her Whelps  
+2 references in The Gnat and the Bull  
+2 references in The Herdsman and the Lost Bull  
+2 references in The Jackdaw and the Fox  
+2 references in The Stag at the Pool  
+2 references in The Two Bags 
+2 references in The Ass and His Purchaser  
+2 references in The Man and the Satyr  
+2 references in The Eagle and the Fox 
+2 references in Jupiter, Neptune, Minerva, and Momus 
+2 references in The Fox and the Crane  
+2 references in The Eagle and the Jackdaw 
+2 references in Mercury and the Workmen  
+2 references in The Dove and the Crow  
+2 references in The Goods and the Ills 
+2 references in The Flea and the Ox  
+2 references in The Sparrow and the Hare  
+2 references in The Ass in the Lion's Skin 
+2 references in The Trumpeter Taken Prisoner  
+2 references in The Owl and the Birds 
+2 references in The Fox and the Lion  
+2 references in The Spendthrift and the Swallow  
+2 references in The Birds, the Beasts, and the Bat 
+2 references in The Dog's House 
+2 references in The Mole and His Mother  
+2 references in The Quack Frog  
+2 references in The Gamecocks and the Partridge  
+2 references in The Two Men Who Were Enemies 
+2 references in The North Wind and the Sun 
+2 references in The Crow and Mercury  
+2 references in The Wasps, the Partridges, and the Farmer 
+2 references in The Brother and the Sister  
+2 references in The Wolf and the Horse  
+2 references in The Cobbler Turned Doctor  
+2 references in The Blind Man and the Whelp  
+2 references in The Geese and the Cranes 
+2 references in The Fox and the Mask  
+2 references in The Horse and the Ass  
+2 references in The Fowler and the Viper  
+2 references in The Dog and the Shadow  
+2 references in The Fishermen 
+2 references in The Fly and the Draught-Mule  
+2 references in The Wolf, the Fox, and the Ape  
+2 references in The Town Mouse and the Country Mouse  
+2 references in The Goat and the Ass  
+2 references in The Traveler and His Dog  
+2 references in The Wolf and the Goat  
+2 references in The Dog, the Cock, and the Fox  
+2 references in The Hawk and the Nightingale  
+2 references in The Peacock and Juno 
+2 references in The Man and His Wife  
+2 references in The Fox and the Grapes  
+2 references in The Seller of Images  
+2 references in The Ass and the Wolf 
+2 references in The Boy Bathing  
+2 references in The Weasel and the Mice  
+2 references in The Fox and the Lion 
+2 references in The Ants and the Grasshopper 
+2 references in The Hares and the Lions 
+2 references in The Wolf and the Shepherd  
+2 references in The Apes and the Two Travelers 
+2 references in The Man, the Horse, the Ox, and the Dog  
+2 references in The Thief and the Housedog  
+2 references in The Fox and the Monkey  
+2 references in The Prophet  
+2 references in The Kid and the Wolf  
+2 references in The Horse and the Stag 
+2 references in The Jackdaw and the Doves  
+2 references in The Monkey and the Dolphin  
+2 references in The Gnat and the Lion  
+2 references in The Walnut-Tree  
+2 references in The Wolf and the Fox 
+2 references in The Two Frogs 
+2 references in The Crow and the Pitcher  
+2 references in The Serpent and the Eagle  
+2 references in The Hart and the Vine  
+2 references in The Thief and the Innkeeper  
+2 references in The Eagle, the Cat, and the Wild Sow 
+2 references in The Fox and the Hedgehog  
+2 references in The Peacock and the Crane  
+2 references in The Stag, the Wolf, and the Sheep  
+2 references in The Bull and the Calf  
+2 references in The Dog and the Hare  
+2 references in The Wasp and the Snake  
+2 references in The Camel 
+2 references in The Bowman and Lion  
+2 references in The Hares and the Foxes 
+2 references in The Wolves and the Sheepdogs 
+2 references in The Kites and the Swans 
+2 references in The Ass and the Old Shepherd  
+2 references in The Woman and Her Hen  
+2 references in The Crab and the Fox  
+2 references in The Trees and the Axe  
+2 references in The Crow and the Raven  
+2 references in The Ass and the Frogs 
+2 references in The Hen and the Golden Eggs  
+2 references in The Oak and the Woodcutters 
+2 references in The Bull, the Lioness, and the Wild-Boar Hunter  
+2 references in Hercules and the Wagoner  
+2 references in The Fisherman Piping  
+2 references in The Shepherd and the Dog  
+2 references in The Bald Knight  
+2 references in The Traveler and Fortune  
+2 references in The Hare and the Hound  
+2 references in The Oaks and Jupiter 
+2 references in The Monkeys and Their Mother 
+2 references in The Fox and the Leopard 
+2 references in The Dancing Monkeys  
+2 references in The Bull and the Goat  
+2 references in The Image of Mercury and the Carpenter  
+2 references in The Peasant and the Eagle  
+2 references in The Wolf and the Crane  
+2 references in The Mouse and the Bull  
+2 references in The Philosopher, the Ants, and Mercury  
+2 references in The Seagull and the Kite  
+2 references in The Farmer and the Fox  
+2 references in The Doe and the Lion  
+2 references in The Kingdom of the Lion 
+2 references in The Cat and the Mice  
+2 references in The Two Frogs 
+2 references in The Flea and the Wrestler  
+2 references in The Monkey and the Fishermen  
+2 references in The Birdcatcher, the Partridge, and the Cock  
+2 references in The Fox and the Woodcutter  
+2 references in The Swollen Fox  
+2 references in The Swan and the Goose  
+2 references in Mercury and the Sculptor 
+2 references in The Cock and the Jewel  
+2 references in The Wild Boar and the Fox  
+2 references in The Hunter and the Woodman  
+2 references in The Fisherman and the Little Fish  
+2 references in The Oak and the Reeds  
+2 references in The Ass and His Masters 
+2 references in The Ass and His Shadow  
+2 references in The Brazier and His Dog  
+2 references in The Seaside Travelers 
+2 references in The Milk-Woman and Her Pail  
+2 references in The Bee and Jupiter  
+2 references in The Old Hound  
+2 references in The Two Travelers and the Axe 
+2 references in The Ass Carrying the Image 
+2 references in The Dolphins, the Whales, and the Sprat 
+2 references in The Wolf and the Shepherds  
+2 references in The Master and His Dogs  
+2 references in The Three Tradesmen  
+2 references in The Playful Ass 
+2 references in The Rivers and the Sea 
+2 references in The Wolf and the Housedog  
+2 references in The Mice in Council 
+2 references in The Mice and the Weasels 
+2 references in The Ass, the Cock, and the Lion 
+2 references in The Shepherd and the Sea  
+2 references in The One-Eyed Doe  
+2 references in The Boy Hunting Locusts  
+2 references in The Father and His Sons  
+2 references in The Sick Kite  
+2 references in The Eagle and the Arrow 
+2 references in The Wild Ass and the Lion  
+2 references in The Widow and the Sheep  
+2 references in The Hawk, the Kite, and the Pigeons 
+2 references in The Stag in the Ox-Stall  
+2 references in The Two Dogs  
+2 references in The Fox and the Crow  
+2 references in The Old Woman and the Wine-Jar 
+2 references in The Huntsman and the Fisherman  
+2 references in The Fisherman and His Nets  
+2 references in The Aethiop 
+2 references in The Wolf and the Sheep  
+2 references in The Two Pots  
+2 references in The Man Bitten by a Dog  
+2 references in The Mouse, the Frog, and the Hawk  
+2 references in The Fir-Tree and the Bramble  
+2 references in The Old Man and Death 
+2 references in The Thief and His Mother  
+2 references in The Swallow, the Serpent, and the Court of Justice  
+2 references in The Heifer and the Ox  
+2 references in The Crab and Its Mother  
+2 references in The Farmer and His Sons  
+2 references in The Father and His Two Daughters  
+2 references in The Shepherd and the Wolf  
+2 references in The Ox and the Frog 
+2 references in The Kid and the Wolf  
+2 references in The Cat and the Birds  
+2 references in The Shepherd's Boy and the Wolf  
+2 references in The Widow and Her Little Maidens  
+2 references in Jupiter and the Monkey 
+2 references in The Vine and the Goat  
+2 references in The Belly and the Members 
+2 references in The Horse and His Rider  
+2 references in The Fox and the Monkey  
+2 references in The Charger and the Miller  
+2 references in The Fighting Cocks and the Eagle 
+2 references in The Old Woman and the Physician 
+2 references in The Wolves and the Sheep  
+2 references in The Astronomer 
+2 references in The Man and His Two Sweethearts  
+2 references in The Boy and the Nettles  
+2 references in The Fox Who Had Lost His Tail  
+2 references in The Mischievous Dog  
+2 references in The Goatherd and the Wild Goats  
+2 references in The Vain Jackdaw 
+2 references in The Charcoal-Burner and the Fuller  
+2 references in The Oxen and the Butchers 
+2 references in The Salt Merchant and His Ass  
+2 references in The Sick Stag  
+2 references in The Boys and the Frogs 
+2 references in The Frogs Asking for a King 
+2 references in The Ass and the Mule  
+2 references in The Wolf in Sheep's Clothing 
+2 references in The Wolf and the Lamb 
+2 references in The Ass and the Grasshopper 
+2 references in The Boy and the Filberts  
+2 references in The Piglet, the Sheep, and the Goat  
+2 references in The Cat and the Cock  
+2 references in The Boasting Traveler  
+2 references in The Bat and the Weasels  
+2 references in The Ass and the Lapdog  
+2 references in The Horse and Groom  
+2 references in The Sick Lion  
+2 references in The Miser  
+2 references in The Goat and the Goatherd  
+2 references in The Raven and the Swan  
+2 references in The Thirsty Pigeon  
+2 references in The Oxen and the Axle-Trees  
+2 references in The Bear and the Two Travelers 
+2 references in The Fox and the Goat  
+2 references in The Dog in the Manger  
+2 references in The Farmer and the Cranes 
+2 references in The Man and the Lion  
+2 references in The Flies and the Honey-Pot  
+2 references in The Ass, the Fox, and the Lion 
+2 references in The Mountain in Labor  
+2 references in The Swallow and the Crow 
+2 references in such respect for him that he would not even touch his dead body.  
+1 references in   The Lion and the Mouse  
+1 references in The Lion and the Shepherd  
+1 references in The Lamb and the Wolf  
+1 references in The Lion, Jupiter, and the Elephant 
+1 references in The Lion and the Eagle 
+1 references in The Lion and the Fox  
+1 references in The Lark Burying Her Father 
+1 references in The Lion, the Wolf, and the Fox  
+1 references in The Lion and the Three Bulls 
+1 references in The Lion and the Bull  
+1 references in The Lark and Her Young Ones  
+1 references in The Lion, the Fox, and the Ass 
+1 references in The Lamp  
+1 references in The Lion and the Hare  
+1 references in The Lion, the Bear, and the Fox  
+1 references in The Lion in a Farmyard  
+1 references in The Lion and the Boar 
+1 references in The Lion and the Dolphin  
+1 references in The Lion, the Mouse, and the Fox  
+1 references in The Laborer and the Snake  
+1 references in The Lion in Love  
+1 references in The Lioness  
